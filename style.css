@@ -11,7 +11,7 @@ div {
   width:700px;
   margin:auto;
   font-family: Helvetica Neue ;
-  background-color: white;
+  background: white;
   padding: 30px;
 
 }
@@ -20,7 +20,7 @@ div {
 #main-header {
   /* Your code here! */
   color:red;
-  font-size: 30px;
+  font-size: 22px;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
